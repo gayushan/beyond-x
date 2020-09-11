@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>WEBSITE</title>
+</head>
+<body bgcolor="#11638B">
+<center><b style="font:30px;background-color:#383B3C;">MY PERSONAL WEBSITE<br>  Lorem ipsum dolor sit amet</b></center>
+</body>
+</html>
